@@ -1,0 +1,32 @@
+{
+  "gyms": [
+    {
+      "logo": "assets/gym1.jpg",
+      "name": "Fitness Palace",
+      "city": "Marrakech",
+      "latitude": 31.6295,
+      "longitude": -7.9811
+    },
+    {
+      "logo": "assets/gym2.jpg",
+      "name": "Power Gym",
+      "city": "Marrakech",
+      "latitude": 31.6216,
+      "longitude": -7.9872
+    },
+    {
+      "logo": "assets/gym3.avif",
+      "name": "Active Life Fitness",
+      "city": "Marrakech",
+      "latitude": 31.6342,
+      "longitude": -8.0083
+    },
+    {
+      "logo": "assets/gym3.avif",
+      "name": "Active Life Fitness",
+      "city": "Agadir",
+      "latitude": 32.6342,
+      "longitude": -8.0083
+    }
+  ]
+}
